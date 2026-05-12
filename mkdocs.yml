@@ -1,0 +1,16 @@
+site_name: Apache Spark com MinIO e SQL Server
+site_description: Trabalho de Pesquisa 2 - Arquitetura de Dados SATC
+theme:
+  name: material
+  palette:
+    primary: deep orange
+    accent: orange
+  features:
+    - navigation.tabs
+    - content.code.copy
+
+nav:
+  - Início: index.md
+  - Apache Spark: spark.md
+  - MinIO: minio.md
+  - Delta Lake: delta.md
